@@ -1,4 +1,4 @@
-# Binary-Classification-Web-App
+# Binary Classification Web App
 This is an <strong>updated</strong> Machine Learning app classifies data using SVM, Logistic Regression and Random Forest presenting it in the form of a web app. 
 Dataset
 
